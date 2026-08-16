@@ -3,3 +3,7 @@ Difference between git and github
 How to make branches for multiple colaborators
 How to add, commit and push
 How to merge multiple branches 
+
+git add — stages your changes (marks which files/edits will be included in the next commit).
+git commit — saves the staged changes as a new snapshot in your local repository's history.
+git push — uploads your local commits to the remote repository (e.g., GitHub) so others (and Kaggle, if you sync from there) can see them.
